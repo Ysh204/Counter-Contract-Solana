@@ -1,6 +1,19 @@
 /test-ledget
 /target
 /node_modules
+.DS_Store
+*.log
 *.env
+*.cache
+*.tmp
+*.bak
+*.swp
+*.swo
+*.zip
+*.tar.gz        
+
+.idea/
+.vscode/
+*.iml
 
 
